@@ -1,1 +1,1 @@
-React Boilerplate - Real World app Config
+Timer & Countdown - React App
