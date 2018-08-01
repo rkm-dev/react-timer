@@ -7,9 +7,6 @@ var Countdown = React.createClass({
 	    return {count: 0};
 	},
 	handleSetCountdown: function (seconds) {
-		if(seconds < 0) {
-			seconds = 0;
-		}
 	    this.setState({
 	      count: seconds
 	    });
